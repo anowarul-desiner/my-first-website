@@ -1,0 +1,27 @@
+@import url('http://fonts.googleapis.com/css2');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100vw;
+    height:100vh;
+    background-image: url(./pic/img/header-bg.png);
+    background-position: bottom;
+    background-size: cover;
+
+}
+.header-content{
+    margin-bottom: 150px;
+    color: aliceblue; 
+    text-align: center;
+}
+.header-content h2{
+    font-size: 4vmin;
+    
+}
+
